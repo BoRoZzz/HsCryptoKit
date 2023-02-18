@@ -6,7 +6,6 @@ let package = Package(
     name: "HsCryptoKit.Swift",
     platforms: [
         .macOS(.v12),
-        .iOS(.v13),
     ],
     products: [
         .library(
